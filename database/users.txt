@@ -1,0 +1,36 @@
+Username: admin
+FullName: System Administrator
+Salt: 012ce24f7340ee02a4642d75e15bdcf6
+PasswordHash: b50a43ad26ca79e1856ec22c111d159ad54a2c38bf14b890cd26835147aa65e2
+CreatedAt: 2026-11-17 08:58:17
+--------------------------------
+Username: advait
+FullName: Advait Sharma
+Salt: 52fd604e8517bd969ef67e3f6c097040
+PasswordHash: 1220104e42cf760381a004f077482c81e141911639085cebd6d652080d69ec81
+CreatedAt: 2026-11-17 08:58:17
+--------------------------------
+Username: student
+FullName: DSA Student
+Salt: 4dab8156ac5b66ebb1afde0db2e90ca3
+PasswordHash: 757e5342166d810b2cac15e313ff67d5aa7f356e088915072c6e68d2a432eef4
+CreatedAt: 2026-11-17 08:58:18
+--------------------------------
+Username: sec_officer
+FullName: Test Officer
+Salt: 3cf5c2fa4dc81250dd507954aca421a8
+PasswordHash: 17e66228cab4913b826f2f3161fd36875470251c2a1535227d2a41708286ad84
+CreatedAt: 2026-11-17 08:58:18
+--------------------------------
+Username: officer_86149
+FullName: Test Officer
+Salt: 21efe3da3e71b74f65c3d0989f97df93
+PasswordHash: fa87bb9c6b9ffb96a3e94348915025f610879078580dd2c23343191d1212f083
+CreatedAt: 2026-11-17 08:59:09
+--------------------------------
+Username: Luffy
+FullName: Monkey
+Salt: c9f8b77e4af0e5aa94397fe28946c122
+PasswordHash: dd003b2e328703c91cd571f566d508cb26c9fea67140b458179c4be66665926b
+CreatedAt: 2026-11-17 09:03:43
+--------------------------------
